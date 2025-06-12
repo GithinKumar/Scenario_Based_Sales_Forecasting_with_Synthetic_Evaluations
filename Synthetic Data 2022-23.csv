@@ -1,0 +1,329 @@
+OrderDate,ShipDate,ShipMode,State,Category,Sales,Profit,Discounts
+2022-01-02,2022-01-07,Standard Class,Colorado,Furniture,87.2,-147.56,0.68
+2022-01-02,2022-01-05,Standard Class,Mississippi,Furniture,37.72,-10.79,0.0
+2022-01-02,2022-01-04,Standard Class,New Hampshire,Furniture,131.07,-1.94,0.0
+2022-01-05,2022-01-07,Standard Class,Rhode Island,Furniture,65.08,11.92,0.0
+2022-01-06,2022-01-08,Standard Class,Alaska,Furniture,130.54,20.35,0.2
+2022-01-06,2022-01-11,Standard Class,New Hampshire,Furniture,87.16,2.0,0.0
+2022-01-06,2022-01-07,Standard Class,Oregon,Furniture,65.19,16.5,0.0
+2022-01-09,2022-01-11,Standard Class,Kentucky,Furniture,65.39,15.25,0.2
+2022-01-12,2022-01-16,First Class,Connecticut,Furniture,66.03,259.91,0.0
+2022-01-14,2022-01-20,Second Class,New York,Furniture,37.11,36.82,0.0
+2022-01-15,2022-01-16,Same Day,Louisiana,Furniture,65.47,82.32,0.3
+2022-01-19,2022-01-20,Standard Class,California,Furniture,65.27,34.95,0.0
+2022-01-21,2022-01-22,Standard Class,Oklahoma,Furniture,35.38,15.18,0.0
+2022-01-21,2022-01-22,First Class,Colorado,Furniture,130.73,-30.58,0.2
+2022-01-22,2022-01-23,Same Day,North Carolina,Furniture,261.96,14.91,0.2
+2022-02-03,2022-02-09,Second Class,Montana,Furniture,65.04,-77.66,0.68
+2022-02-06,2022-02-12,Standard Class,Nebraska,Furniture,65.25,13.62,0.0
+2022-02-09,2022-02-13,Standard Class,Maine,Furniture,131.12,43.4,0.2
+2022-02-10,2022-02-16,First Class,California,Furniture,65.02,148.73,0.0
+2022-02-14,2022-02-17,Standard Class,Iowa,Furniture,130.5,5.1,0.2
+2022-02-14,2022-02-20,Standard Class,Delaware,Furniture,87.7,-4.45,0.4
+2022-02-15,2022-02-20,Standard Class,North Dakota,Furniture,130.88,-1.89,0.0
+2022-02-16,2022-02-18,First Class,West Virginia,Furniture,52.92,41.38,0.0
+2022-02-18,2022-02-22,Standard Class,Vermont,Furniture,34.16,21.02,0.0
+2022-02-20,2022-02-25,Standard Class,New Mexico,Furniture,87.24,17.47,0.0
+2022-02-21,2022-02-22,Standard Class,California,Furniture,261.96,-7.82,0.2
+2022-02-22,2022-02-28,Second Class,Montana,Furniture,65.28,20.48,0.0
+2022-02-23,2022-02-24,Second Class,West Virginia,Furniture,87.31,10.84,0.0
+2022-02-23,2022-02-28,Standard Class,Utah,Furniture,34.4,125.23,0.0
+2022-03-06,2022-03-07,Standard Class,Maine,Furniture,52.0,20.67,0.2
+2022-03-07,2022-03-10,First Class,Massachusetts,Furniture,261.96,-2.57,0.0
+2022-03-07,2022-03-10,Standard Class,Oklahoma,Furniture,87.44,15.58,0.0
+2022-03-10,2022-03-14,Second Class,Tennessee,Furniture,36.0,-32.03,0.2
+2022-03-14,2022-03-15,Standard Class,Vermont,Furniture,37.31,-11.32,0.2
+2022-03-18,2022-03-24,Standard Class,South Carolina,Furniture,36.78,310.71,0.2
+2022-03-19,2022-03-22,Standard Class,Connecticut,Furniture,36.46,12.1,0.0
+2022-03-20,2022-03-24,Standard Class,Delaware,Furniture,65.69,10.53,0.0
+2022-03-22,2022-03-23,Standard Class,Kentucky,Furniture,63.71,44.66,0.0
+2022-03-22,2022-03-25,Standard Class,Oklahoma,Furniture,87.18,8.8,0.0
+2022-03-28,2022-03-29,Second Class,West Virginia,Furniture,131.01,9.51,0.0
+2022-03-31,2022-04-04,First Class,Idaho,Furniture,66.05,-5.09,0.2
+2022-04-02,2022-04-06,First Class,Wisconsin,Furniture,52.49,-2.24,0.2
+2022-04-06,2022-04-11,Standard Class,Hawaii,Furniture,87.07,17.3,0.0
+2022-04-07,2022-04-08,Standard Class,Georgia,Furniture,87.85,-701.53,0.76
+2022-04-09,2022-04-15,Standard Class,Indiana,Furniture,65.47,11.35,0.0
+2022-04-09,2022-04-12,Standard Class,Texas,Furniture,130.9,-16.39,0.2
+2022-04-10,2022-04-15,Standard Class,Georgia,Furniture,87.33,260.63,0.0
+2022-04-11,2022-04-13,First Class,Illinois,Furniture,33.52,65.88,0.2
+2022-04-19,2022-04-22,First Class,Hawaii,Furniture,131.41,-15.55,0.2
+2022-04-23,2022-04-27,Second Class,Wisconsin,Furniture,86.92,19.13,0.0
+2022-04-23,2022-04-29,Standard Class,Missouri,Furniture,37.48,56.49,0.0
+2022-04-23,2022-04-29,First Class,West Virginia,Furniture,66.34,-149.29,0.2
+2022-04-29,2022-05-02,First Class,Oklahoma,Furniture,258.36,196.61,0.2
+2022-04-30,2022-05-02,Standard Class,Rhode Island,Furniture,65.65,11.35,0.2
+2022-05-01,2022-05-02,Standard Class,Kansas,Furniture,131.44,3.47,0.0
+2022-05-03,2022-05-04,Second Class,Utah,Furniture,35.95,48.34,0.0
+2022-05-03,2022-05-08,Standard Class,Alaska,Furniture,36.04,97.28,0.71
+2022-05-05,2022-05-11,Second Class,Maryland,Furniture,130.45,6.94,0.2
+2022-05-08,2022-05-12,Second Class,Georgia,Furniture,32.92,13.53,0.0
+2022-05-14,2022-05-20,Standard Class,Kansas,Furniture,87.39,3.73,0.0
+2022-05-17,2022-05-22,Second Class,West Virginia,Furniture,130.49,7.36,0.2
+2022-05-28,2022-06-01,Standard Class,Wisconsin,Furniture,33.45,13.19,0.0
+2022-06-02,2022-06-08,Same Day,Georgia,Furniture,130.56,-51.59,0.2
+2022-06-05,2022-06-10,Standard Class,Alaska,Furniture,131.35,-103.57,0.71
+2022-06-06,2022-06-07,Standard Class,Michigan,Furniture,34.96,28.96,0.0
+2022-06-06,2022-06-09,Standard Class,Mississippi,Furniture,32.2,167.69,0.0
+2022-06-10,2022-06-16,Standard Class,Louisiana,Furniture,65.85,2.62,0.7
+2022-06-11,2022-06-14,Second Class,Rhode Island,Furniture,33.45,26.69,0.0
+2022-06-12,2022-06-17,Standard Class,South Carolina,Furniture,87.92,11.38,0.0
+2022-06-12,2022-06-18,Standard Class,Nevada,Furniture,34.47,77.54,0.0
+2022-06-12,2022-06-13,Same Day,Kentucky,Furniture,87.56,7.75,0.0
+2022-06-14,2022-06-16,Standard Class,Indiana,Furniture,130.81,7.66,0.2
+2022-06-14,2022-06-18,Standard Class,Pennsylvania,Furniture,130.5,5.62,0.39
+2022-06-16,2022-06-17,Standard Class,Nevada,Furniture,35.67,17.76,0.0
+2022-06-16,2022-06-20,First Class,Tennessee,Furniture,131.41,21.92,0.0
+2022-06-19,2022-06-23,Standard Class,New Hampshire,Furniture,35.72,80.35,0.2
+2022-06-21,2022-06-22,Standard Class,Arizona,Furniture,36.41,8.86,0.4
+2022-06-22,2022-06-27,Standard Class,North Carolina,Furniture,64.91,7.67,0.2
+2022-06-24,2022-06-28,Standard Class,Rhode Island,Furniture,87.33,7.92,0.0
+2022-06-27,2022-06-28,Standard Class,Maine,Furniture,130.79,10.57,0.0
+2022-07-03,2022-07-06,Standard Class,Washington,Furniture,261.71,102.27,0.0
+2022-07-04,2022-07-07,First Class,South Carolina,Furniture,130.94,-8.53,0.2
+2022-07-07,2022-07-12,Standard Class,Oregon,Furniture,64.56,15.16,0.2
+2022-07-07,2022-07-11,Same Day,Delaware,Furniture,36.71,25.82,0.0
+2022-07-07,2022-07-13,Standard Class,South Carolina,Furniture,64.84,1.58,0.38
+2022-07-09,2022-07-14,Standard Class,New Mexico,Furniture,88.04,-103.44,0.39
+2022-07-09,2022-07-12,Standard Class,Pennsylvania,Furniture,131.17,17.67,0.2
+2022-07-10,2022-07-11,Standard Class,Maine,Furniture,87.01,15.19,0.0
+2022-07-11,2022-07-13,Standard Class,Pennsylvania,Furniture,65.27,104.07,0.0
+2022-07-11,2022-07-12,Standard Class,Vermont,Furniture,86.75,4.18,0.0
+2022-07-20,2022-07-25,Standard Class,Michigan,Furniture,52.64,13.49,0.0
+2022-07-20,2022-07-24,Second Class,Louisiana,Furniture,130.88,2.82,0.2
+2022-07-20,2022-07-25,First Class,Minnesota,Furniture,65.4,9.39,0.2
+2022-07-21,2022-07-23,Standard Class,New Jersey,Furniture,36.99,108.5,0.0
+2022-07-25,2022-07-26,Standard Class,Texas,Furniture,35.3,158.79,0.2
+2022-07-27,2022-08-02,First Class,Michigan,Furniture,86.86,17.3,0.0
+2022-07-27,2022-07-30,Second Class,Arizona,Furniture,261.96,11.09,0.0
+2022-07-28,2022-07-31,Standard Class,Alabama,Furniture,257.93,7.26,0.0
+2022-07-30,2022-08-03,Second Class,California,Furniture,131.38,-170.49,0.72
+2022-08-02,2022-08-03,First Class,South Carolina,Furniture,51.46,-87.88,0.0
+2022-08-02,2022-08-03,Standard Class,Wisconsin,Furniture,87.9,6.27,0.2
+2022-08-04,2022-08-05,Standard Class,Rhode Island,Furniture,37.44,3.43,0.2
+2022-08-04,2022-08-08,Second Class,Utah,Furniture,86.35,18.51,0.0
+2022-08-06,2022-08-07,Second Class,Maine,Furniture,87.97,15.52,0.0
+2022-08-08,2022-08-09,First Class,Delaware,Furniture,33.62,33.6,0.29
+2022-08-11,2022-08-13,Standard Class,Texas,Furniture,87.54,9.25,0.0
+2022-08-11,2022-08-14,First Class,Mississippi,Furniture,34.74,172.38,0.0
+2022-08-12,2022-08-15,Standard Class,Arizona,Furniture,130.68,49.89,0.54
+2022-08-15,2022-08-19,Second Class,Louisiana,Furniture,259.5,11.52,0.0
+2022-08-18,2022-08-24,Standard Class,Ohio,Furniture,38.43,-1.64,0.2
+2022-08-19,2022-08-24,Standard Class,Texas,Furniture,36.13,251.43,0.0
+2022-08-19,2022-08-21,Standard Class,Montana,Furniture,86.76,7.98,0.2
+2022-08-22,2022-08-27,Second Class,Oregon,Furniture,52.46,77.13,0.0
+2022-08-24,2022-08-27,First Class,Iowa,Furniture,52.41,10.07,0.0
+2022-08-25,2022-08-28,Standard Class,Ohio,Furniture,66.54,10.72,0.57
+2022-08-27,2022-09-01,Standard Class,Connecticut,Furniture,87.37,12.74,0.2
+2022-08-30,2022-09-04,Standard Class,West Virginia,Furniture,37.13,19.3,0.0
+2022-09-06,2022-09-09,Second Class,New Hampshire,Furniture,87.47,8.09,0.0
+2022-09-06,2022-09-09,Standard Class,Pennsylvania,Furniture,64.44,7.54,0.0
+2022-09-10,2022-09-11,Standard Class,Arizona,Furniture,87.09,507.6,0.0
+2022-09-12,2022-09-13,Standard Class,Alaska,Furniture,87.74,-54.49,0.2
+2022-09-15,2022-09-19,Second Class,New Jersey,Furniture,35.93,-12.14,0.0
+2022-09-22,2022-09-28,Standard Class,Alabama,Furniture,130.95,-195.61,0.3
+2022-09-25,2022-09-26,Same Day,South Dakota,Furniture,87.33,20.34,0.0
+2022-09-27,2022-10-02,Standard Class,Nebraska,Furniture,41.05,269.7,0.0
+2022-09-27,2022-10-02,Standard Class,Wyoming,Furniture,34.59,20.28,0.0
+2022-09-30,2022-10-03,Standard Class,Oklahoma,Furniture,65.04,72.36,0.0
+2022-10-04,2022-10-10,Standard Class,Texas,Furniture,130.92,11.56,0.0
+2022-10-05,2022-10-11,Standard Class,Kansas,Furniture,65.97,-43.58,0.2
+2022-10-08,2022-10-14,First Class,Florida,Furniture,65.57,18.3,0.0
+2022-10-13,2022-10-18,Standard Class,Kentucky,Furniture,87.64,10.5,0.0
+2022-10-14,2022-10-18,Standard Class,Minnesota,Furniture,65.57,32.12,0.0
+2022-10-16,2022-10-21,Standard Class,South Carolina,Furniture,32.6,46.18,0.0
+2022-10-16,2022-10-17,Standard Class,Connecticut,Furniture,51.37,14.5,0.0
+2022-10-18,2022-10-24,Standard Class,New Jersey,Furniture,64.79,15.81,0.4
+2022-10-19,2022-10-21,Standard Class,Utah,Furniture,130.82,45.25,0.0
+2022-10-20,2022-10-26,Standard Class,Arkansas,Furniture,65.5,24.35,0.0
+2022-10-24,2022-10-29,First Class,Massachusetts,Furniture,87.23,-1.98,0.0
+2022-10-25,2022-10-30,Standard Class,Massachusetts,Furniture,87.12,17.28,0.0
+2022-10-27,2022-11-01,Second Class,Virginia,Furniture,260.95,11.44,0.2
+2022-10-30,2022-11-05,Second Class,Kansas,Furniture,87.04,8.84,0.2
+2022-11-04,2022-11-06,Standard Class,Nevada,Furniture,65.41,6.65,0.2
+2022-11-07,2022-11-13,Standard Class,Kentucky,Furniture,87.76,6.44,0.7
+2022-11-07,2022-11-11,Standard Class,Alaska,Furniture,65.61,13.21,0.2
+2022-11-07,2022-11-13,Standard Class,Nevada,Furniture,65.41,63.78,0.0
+2022-11-08,2022-11-12,Standard Class,Georgia,Furniture,65.28,18.92,0.0
+2022-11-09,2022-11-11,Standard Class,New York,Furniture,130.13,-50.66,0.2
+2022-11-11,2022-11-17,Standard Class,New Hampshire,Furniture,131.27,11.6,0.0
+2022-11-11,2022-11-17,Second Class,South Carolina,Furniture,87.79,72.56,0.73
+2022-11-12,2022-11-13,Standard Class,Hawaii,Furniture,38.44,4.3,0.11
+2022-11-16,2022-11-17,Second Class,Alaska,Furniture,86.93,87.75,0.0
+2022-11-21,2022-11-25,Standard Class,Minnesota,Furniture,131.07,7.45,0.0
+2022-11-24,2022-11-27,Standard Class,Washington,Furniture,87.11,160.98,0.0
+2022-11-24,2022-11-30,First Class,New Hampshire,Furniture,65.14,91.53,0.0
+2022-11-27,2022-12-01,First Class,New Jersey,Furniture,87.76,9.18,0.0
+2022-11-28,2022-11-29,Second Class,Virginia,Furniture,40.63,65.58,0.2
+2022-11-29,2022-11-30,Same Day,Maine,Furniture,87.58,20.47,0.0
+2022-11-30,2022-12-02,Standard Class,Maryland,Furniture,64.31,12.78,0.0
+2022-12-02,2022-12-06,Standard Class,Florida,Furniture,35.68,28.22,0.0
+2022-12-06,2022-12-08,Standard Class,Nebraska,Furniture,64.6,23.6,0.2
+2022-12-07,2022-12-13,Standard Class,Indiana,Furniture,87.01,11.03,0.2
+2022-12-10,2022-12-11,Standard Class,Texas,Furniture,65.07,-56.96,0.0
+2022-12-12,2022-12-15,First Class,Georgia,Furniture,87.33,27.15,0.0
+2022-12-12,2022-12-17,Standard Class,Oklahoma,Furniture,66.33,63.85,0.0
+2022-12-13,2022-12-18,Standard Class,Alabama,Furniture,37.69,15.86,0.2
+2022-12-13,2022-12-15,Standard Class,Kansas,Furniture,87.02,50.32,0.0
+2022-12-13,2022-12-15,Standard Class,Delaware,Furniture,64.77,21.1,0.0
+2022-12-14,2022-12-17,Same Day,Rhode Island,Furniture,65.84,42.97,0.0
+2022-12-17,2022-12-23,Standard Class,Iowa,Furniture,65.9,35.3,0.0
+2022-12-18,2022-12-20,Same Day,Georgia,Furniture,66.3,-17.86,0.72
+2022-12-19,2022-12-25,Standard Class,Oklahoma,Furniture,131.03,7.04,0.2
+2022-12-20,2022-12-24,Standard Class,Kentucky,Furniture,87.45,-6.76,0.2
+2022-12-22,2022-12-27,Standard Class,North Carolina,Furniture,131.18,26.71,0.0
+2022-12-29,2022-12-31,First Class,Rhode Island,Furniture,64.44,19.0,0.0
+2022-12-29,2022-12-30,Same Day,Ohio,Furniture,131.35,-11.38,0.0
+2022-12-30,2023-01-05,Standard Class,Maine,Furniture,130.72,65.46,0.2
+2022-12-30,2023-01-03,Standard Class,Missouri,Furniture,130.96,0.24,0.0
+2022-12-31,2023-01-04,Second Class,West Virginia,Furniture,130.85,29.73,0.2
+2022-12-31,2023-01-05,Second Class,Colorado,Furniture,87.01,-1.25,0.74
+2023-01-04,2023-01-07,Standard Class,Illinois,Furniture,130.9,21.71,0.0
+2023-01-06,2023-01-09,Standard Class,Arkansas,Furniture,52.16,5.34,0.39
+2023-01-07,2023-01-08,Standard Class,South Carolina,Furniture,35.1,353.58,0.2
+2023-01-07,2023-01-10,First Class,Alaska,Furniture,130.76,42.78,0.0
+2023-01-08,2023-01-12,Standard Class,Minnesota,Furniture,39.4,7.68,0.0
+2023-01-09,2023-01-11,Second Class,Utah,Furniture,87.54,5.4,0.0
+2023-01-10,2023-01-13,Standard Class,North Dakota,Furniture,87.28,22.23,0.0
+2023-01-17,2023-01-23,First Class,Iowa,Furniture,66.9,-8.26,0.2
+2023-01-17,2023-01-21,Standard Class,Oklahoma,Furniture,130.98,23.88,0.0
+2023-01-19,2023-01-20,First Class,Rhode Island,Furniture,37.58,14.54,0.0
+2023-01-23,2023-01-24,Standard Class,Arizona,Furniture,87.13,11.48,0.0
+2023-01-24,2023-01-27,Standard Class,Mississippi,Furniture,65.67,12.35,0.0
+2023-01-25,2023-01-29,Standard Class,South Carolina,Furniture,130.83,115.04,0.2
+2023-01-25,2023-01-30,Standard Class,Connecticut,Furniture,86.57,14.84,0.0
+2023-01-26,2023-01-29,Standard Class,Hawaii,Furniture,131.3,-2.4,0.2
+2023-01-27,2023-01-28,Second Class,Pennsylvania,Furniture,257.66,18.58,0.0
+2023-02-03,2023-02-05,Standard Class,Arkansas,Furniture,87.71,11.93,0.2
+2023-02-04,2023-02-07,Standard Class,North Dakota,Furniture,130.14,25.42,0.0
+2023-02-07,2023-02-13,Second Class,Texas,Furniture,30.07,58.2,0.2
+2023-02-10,2023-02-12,First Class,Rhode Island,Furniture,130.34,19.36,0.0
+2023-02-11,2023-02-15,Same Day,Utah,Furniture,87.16,18.97,0.0
+2023-02-13,2023-02-16,Same Day,Georgia,Furniture,131.13,33.09,0.0
+2023-02-15,2023-02-16,Standard Class,Georgia,Furniture,87.55,0.94,0.2
+2023-02-16,2023-02-17,Same Day,Michigan,Furniture,87.37,30.18,0.0
+2023-02-16,2023-02-20,First Class,Wisconsin,Furniture,130.55,4.9,0.2
+2023-02-27,2023-03-01,Same Day,Illinois,Furniture,87.24,-5.19,0.4
+2023-03-04,2023-03-10,Standard Class,Illinois,Furniture,87.36,46.84,0.2
+2023-03-07,2023-03-08,Standard Class,Nebraska,Furniture,36.05,298.57,0.0
+2023-03-08,2023-03-10,Standard Class,North Dakota,Furniture,86.72,14.97,0.0
+2023-03-09,2023-03-15,Standard Class,Virginia,Furniture,131.87,5.94,0.2
+2023-03-14,2023-03-17,Standard Class,Alabama,Furniture,131.52,-120.45,0.0
+2023-03-16,2023-03-17,Standard Class,Indiana,Furniture,37.16,73.93,0.0
+2023-03-17,2023-03-23,Standard Class,Ohio,Furniture,87.21,18.24,0.0
+2023-03-18,2023-03-19,Standard Class,Tennessee,Furniture,35.97,-53.96,0.71
+2023-03-25,2023-03-27,Second Class,Indiana,Furniture,130.39,17.72,0.0
+2023-03-25,2023-03-31,Standard Class,Kentucky,Furniture,130.96,2.8,0.2
+2023-03-26,2023-03-27,Second Class,Iowa,Furniture,86.89,22.94,0.0
+2023-03-31,2023-04-05,Same Day,Rhode Island,Furniture,36.03,19.51,0.2
+2023-03-31,2023-04-01,Standard Class,Texas,Furniture,259.74,16.86,0.0
+2023-04-02,2023-04-03,Second Class,California,Furniture,36.69,10.36,0.0
+2023-04-02,2023-04-07,Standard Class,Louisiana,Furniture,65.54,16.93,0.0
+2023-04-14,2023-04-16,Standard Class,Ohio,Furniture,65.53,17.32,0.0
+2023-04-15,2023-04-17,Same Day,North Dakota,Furniture,65.61,16.11,0.2
+2023-04-16,2023-04-18,Standard Class,Louisiana,Furniture,65.65,7.88,0.11
+2023-04-22,2023-04-28,Standard Class,Pennsylvania,Furniture,87.4,70.92,0.0
+2023-04-23,2023-04-26,First Class,Nebraska,Furniture,34.71,3.74,0.2
+2023-04-25,2023-05-01,Standard Class,Maryland,Furniture,87.25,14.43,0.0
+2023-04-26,2023-05-01,Standard Class,Ohio,Furniture,65.14,17.59,0.0
+2023-04-27,2023-05-01,Standard Class,Nebraska,Furniture,65.74,-8.81,0.2
+2023-05-01,2023-05-03,Standard Class,Vermont,Furniture,130.95,16.36,0.0
+2023-05-01,2023-05-02,First Class,North Carolina,Furniture,65.5,4.86,0.0
+2023-05-02,2023-05-03,Second Class,New Jersey,Furniture,65.58,185.34,0.0
+2023-05-12,2023-05-17,Standard Class,Virginia,Furniture,131.39,-3.59,0.0
+2023-05-14,2023-05-16,Standard Class,Hawaii,Furniture,87.13,23.29,0.0
+2023-05-15,2023-05-19,Standard Class,Delaware,Furniture,130.81,14.71,0.0
+2023-05-17,2023-05-20,First Class,Oklahoma,Furniture,65.61,-18.29,0.0
+2023-05-18,2023-05-24,Standard Class,Massachusetts,Furniture,66.01,-2.72,0.2
+2023-05-18,2023-05-21,Standard Class,North Carolina,Furniture,36.15,-7.71,0.2
+2023-05-19,2023-05-23,First Class,Texas,Furniture,261.96,7.87,0.2
+2023-05-20,2023-05-21,First Class,South Dakota,Furniture,65.36,15.02,0.0
+2023-05-25,2023-05-30,Standard Class,New York,Furniture,261.96,10.45,0.0
+2023-05-28,2023-06-03,Standard Class,New Jersey,Furniture,67.2,12.32,0.0
+2023-05-28,2023-06-02,Standard Class,Utah,Furniture,130.87,-8.72,0.71
+2023-05-31,2023-06-04,Standard Class,Wisconsin,Furniture,34.4,30.57,0.4
+2023-06-02,2023-06-06,Standard Class,Pennsylvania,Furniture,130.67,8.38,0.11
+2023-06-03,2023-06-07,Standard Class,Georgia,Furniture,87.6,2.48,0.2
+2023-06-04,2023-06-09,Standard Class,Connecticut,Furniture,64.79,52.3,0.2
+2023-06-04,2023-06-05,First Class,South Dakota,Furniture,131.14,28.49,0.2
+2023-06-05,2023-06-06,Standard Class,North Carolina,Furniture,39.2,10.97,0.0
+2023-06-05,2023-06-09,First Class,Colorado,Furniture,64.72,-19.67,0.0
+2023-06-06,2023-06-10,Standard Class,Alaska,Furniture,87.75,-8.66,0.0
+2023-06-07,2023-06-09,Standard Class,West Virginia,Furniture,37.88,13.36,0.0
+2023-06-09,2023-06-14,First Class,Alaska,Furniture,131.03,26.33,0.0
+2023-06-11,2023-06-17,Standard Class,Oklahoma,Furniture,36.13,210.04,0.0
+2023-06-15,2023-06-21,Standard Class,Connecticut,Furniture,39.55,-22.59,0.0
+2023-06-18,2023-06-19,Standard Class,California,Furniture,35.47,6.36,0.0
+2023-06-20,2023-06-22,First Class,Oregon,Furniture,36.89,115.0,0.0
+2023-06-27,2023-06-28,Standard Class,South Dakota,Furniture,130.69,1.24,0.2
+2023-07-06,2023-07-10,Standard Class,California,Furniture,65.31,19.19,0.0
+2023-07-19,2023-07-22,First Class,Rhode Island,Furniture,63.58,23.29,0.2
+2023-07-19,2023-07-22,First Class,Montana,Furniture,65.33,17.96,0.0
+2023-07-19,2023-07-22,Second Class,Indiana,Furniture,261.96,8.33,0.0
+2023-07-22,2023-07-28,First Class,New Mexico,Furniture,87.94,15.02,0.0
+2023-07-22,2023-07-27,Standard Class,Iowa,Furniture,36.4,8.65,0.0
+2023-07-24,2023-07-27,First Class,Florida,Furniture,53.15,15.83,0.0
+2023-07-27,2023-07-30,Standard Class,Montana,Furniture,65.11,229.87,0.0
+2023-07-27,2023-07-30,Standard Class,New Hampshire,Furniture,36.19,6.58,0.2
+2023-07-30,2023-08-02,Standard Class,South Dakota,Furniture,130.15,13.64,0.2
+2023-08-03,2023-08-04,First Class,Rhode Island,Furniture,34.76,10.31,0.2
+2023-08-05,2023-08-11,Standard Class,Colorado,Furniture,37.56,143.36,0.0
+2023-08-08,2023-08-09,Standard Class,Michigan,Furniture,130.38,12.83,0.2
+2023-08-09,2023-08-13,Standard Class,Minnesota,Furniture,131.43,7.28,0.0
+2023-08-13,2023-08-16,First Class,California,Furniture,35.51,83.81,0.2
+2023-08-16,2023-08-22,Second Class,Oklahoma,Furniture,86.8,44.11,0.2
+2023-08-16,2023-08-17,Standard Class,Montana,Furniture,130.5,17.94,0.0
+2023-08-19,2023-08-22,Standard Class,Idaho,Furniture,130.97,4.7,0.2
+2023-08-27,2023-08-31,Second Class,Oklahoma,Furniture,131.24,9.92,0.2
+2023-08-30,2023-09-04,First Class,Mississippi,Furniture,130.96,-3.97,0.2
+2023-08-31,2023-09-04,Standard Class,Oregon,Furniture,37.04,-11.03,0.2
+2023-09-01,2023-09-05,Standard Class,West Virginia,Furniture,130.62,-6.84,0.0
+2023-09-04,2023-09-06,Standard Class,Wyoming,Furniture,38.39,26.17,0.0
+2023-09-14,2023-09-18,Standard Class,New Mexico,Furniture,51.53,24.33,0.0
+2023-09-15,2023-09-16,Standard Class,Alabama,Furniture,65.98,16.67,0.2
+2023-09-16,2023-09-20,Second Class,New Jersey,Furniture,66.03,33.59,0.68
+2023-09-18,2023-09-23,Standard Class,Nebraska,Furniture,87.3,-1.41,0.72
+2023-09-25,2023-09-28,Standard Class,Montana,Furniture,36.27,216.59,0.0
+2023-09-27,2023-10-03,Standard Class,New Jersey,Furniture,130.47,13.22,0.39
+2023-10-03,2023-10-07,Second Class,Montana,Furniture,38.93,47.46,0.38
+2023-10-04,2023-10-07,Standard Class,Missouri,Furniture,38.23,10.79,0.0
+2023-10-04,2023-10-05,Standard Class,Colorado,Furniture,35.48,33.14,0.0
+2023-10-05,2023-10-09,Standard Class,Indiana,Furniture,130.89,4.07,0.2
+2023-10-17,2023-10-20,Standard Class,Alabama,Furniture,34.11,17.35,0.0
+2023-10-19,2023-10-25,Standard Class,Arizona,Furniture,86.95,18.2,0.0
+2023-10-21,2023-10-25,Standard Class,Massachusetts,Furniture,65.31,16.24,0.0
+2023-10-23,2023-10-27,First Class,Vermont,Furniture,52.08,2.82,0.2
+2023-10-24,2023-10-25,First Class,Oregon,Furniture,36.79,80.36,0.0
+2023-10-25,2023-10-29,Standard Class,Alabama,Furniture,32.11,135.75,0.0
+2023-10-27,2023-10-31,Standard Class,Rhode Island,Furniture,131.26,16.05,0.2
+2023-10-29,2023-11-02,Standard Class,Arizona,Furniture,130.96,5.62,0.0
+2023-10-31,2023-11-01,Standard Class,Tennessee,Furniture,87.73,12.7,0.0
+2023-11-04,2023-11-09,Standard Class,Virginia,Furniture,35.64,36.09,0.0
+2023-11-04,2023-11-09,Standard Class,Iowa,Furniture,131.5,-24.45,0.2
+2023-11-11,2023-11-12,Standard Class,Michigan,Furniture,52.01,17.74,0.0
+2023-11-13,2023-11-16,Standard Class,Ohio,Furniture,65.48,12.13,0.0
+2023-11-14,2023-11-19,Same Day,Michigan,Furniture,53.45,33.77,0.0
+2023-11-14,2023-11-17,First Class,Rhode Island,Furniture,130.97,-3.84,0.2
+2023-11-15,2023-11-19,First Class,Washington,Furniture,87.5,-1.19,0.0
+2023-11-15,2023-11-18,Standard Class,Vermont,Furniture,131.59,10.22,0.57
+2023-11-16,2023-11-22,Standard Class,Alabama,Furniture,130.9,7.57,0.0
+2023-11-21,2023-11-24,Second Class,Mississippi,Furniture,87.34,15.63,0.0
+2023-11-22,2023-11-28,Standard Class,Minnesota,Furniture,34.01,14.87,0.0
+2023-11-22,2023-11-27,First Class,Wyoming,Furniture,86.94,3.99,0.0
+2023-11-24,2023-11-28,Standard Class,Georgia,Furniture,35.32,7.08,0.0
+2023-11-26,2023-12-02,Standard Class,Iowa,Furniture,130.66,11.22,0.0
+2023-12-02,2023-12-08,Standard Class,South Carolina,Furniture,86.9,20.2,0.0
+2023-12-04,2023-12-09,Standard Class,Washington,Furniture,64.87,15.47,0.0
+2023-12-06,2023-12-10,Standard Class,Arizona,Furniture,65.54,-16.12,0.0
+2023-12-06,2023-12-11,Standard Class,Louisiana,Furniture,261.96,5.64,0.0
+2023-12-09,2023-12-14,Standard Class,West Virginia,Furniture,87.81,5.57,0.0
+2023-12-12,2023-12-14,First Class,Missouri,Furniture,87.41,103.09,0.0
+2023-12-13,2023-12-15,Standard Class,Oklahoma,Furniture,65.34,44.83,0.0
+2023-12-15,2023-12-16,Standard Class,Colorado,Furniture,87.38,0.76,0.2
+2023-12-17,2023-12-20,Standard Class,Wyoming,Furniture,64.73,35.1,0.2
+2023-12-19,2023-12-21,Standard Class,Nebraska,Furniture,130.97,8.59,0.0
+2023-12-20,2023-12-23,Standard Class,Arizona,Furniture,86.97,81.04,0.0
+2023-12-22,2023-12-24,Standard Class,Colorado,Furniture,87.31,189.81,0.0
+2023-12-22,2023-12-26,Standard Class,Tennessee,Furniture,64.03,54.59,0.0
+2023-12-24,2023-12-25,Second Class,California,Furniture,87.51,2.53,0.3
+2023-12-24,2023-12-26,Second Class,Rhode Island,Furniture,87.14,3.36,0.0
