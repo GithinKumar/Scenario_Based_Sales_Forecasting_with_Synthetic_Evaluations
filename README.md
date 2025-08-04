@@ -23,6 +23,42 @@ This project is designed to model sales and profit using real historical data (l
 
 ## 🔬 ML & Simulation Process Flow
 
+```
+              [ Historical Data Ingestion (2018–2021) ]
+                                 ↓
+[ Left-Side Forecasting Model (EGA Core)-Feature Engineering & Cleaning ]
+           - Temporal (lag, rolling, DOW, month)
+           - Normalization, outlier removal
+           - Categorical & interaction terms
+                           ↓
+    [ Train RandomForestRegressor on X_train / Y_train ]
+                        ↓
+ ┌─────────────────────────────┬────────────────────────────────┐
+ │                             │                                │
+[ Predict on Test Set (2022+) ]    [ Right-Side Synthetic Data Generation- Generate Synthetic Future Scenarios ]
+ (→ X_test → Y_pred)               (→ generate_scenario_input() for:
+                                     - bullwhip
+                                     - market clash
+                                     - overstock
+                                     - supply disruption)
+                                            ↓
+                                   [ Predict Y_synthetic_scenario using trained model ]
+ └──────────────┬───────────────────────────────┬────────────────────────┘
+                ↓                               ↓
+   [ Evaluate model performance ]     [ Compare scenario forecasts ]
+     - MSE, R² on base Y_test           - Visualize sensitivity
+     - Residuals vs actual              - Line plots across conditions
+                ↓                               ↓
+ ┌─────────────────────────────────────────────────────────────────────┐
+ │         [ Augment Training Set with Synthetic & Scenario Data ]     │
+ │    X_combined = X_train + X_synthetic + X_synthetic_scenario        │
+ │    Y_combined = Y_train + Y_synthetic + Y_synthetic_scenario        │
+ └─────────────────────────────────────────────────────────────────────┘
+                                  ↓
+  [ Error Feedback & Retraining- Retrain RandomForest on Combined Dataset ]
+
+```
+
 1. **Historical Data Ingestion**
    - Real data from 4 years used to train baseline models.
    - Preprocessing includes:
@@ -59,8 +95,10 @@ This project is designed to model sales and profit using real historical data (l
    - Compare model sensitivity across extreme conditions
 
 5. **Error Feedback & Retraining**
-   - Use scenario-based deviations to refine the base model
-   - Track residual patterns for:
-     - Hyperparameter tuning
-     - Feature re-weighting
+   - Expanding the training dataset to include:
+     - Real historical data (X_train, Y_train)
+     - Synthetic baseline data (X_synthetic, Y_synthetic)
+     - Scenario-simulated stress data (X_synthetic_scenario, Y_synthetic_scenario)
+	- Retraining the model on this augmented, multi-condition dataset.
+  
 
